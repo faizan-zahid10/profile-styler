@@ -1,0 +1,5 @@
+{
+  "name": "AI Profile Picture Styler",
+  "description": "Upload a photo, choose a style, and let AI generate a new, stylized profile picture for you. Styles include Professional, Cartoon, Gamer, Anime, and more.",
+  "requestFramePermissions": []
+}
